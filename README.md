@@ -15,7 +15,7 @@ Progress:
 - [ ] [Part 10: Move animation/highlighting, reset and end game text](https://youtu.be/mUdUlhEaA-o)
 - [ ] [Part 11: Random Move AI](https://youtu.be/-QHAPDk5tgs)
 - [ ] [Part 12: Greedy Algorithm and MinMax without recursion](https://youtu.be/IDx9iWqDwZE)
-- [ ] [Part 13: Implementing MinMax recuresively(and some bug fixes)](https://youtu.be/4YJYMnS4YNM)
+- [ ] [Part 13: Implementing MinMax recuresively (and some bug fixes)](https://youtu.be/4YJYMnS4YNM)
 - [ ] [Part 14: Nega Max and Alpha Beta Pruning](https://youtu.be/5UVwksLYAKI)
 - [ ] [Part 15: More bug fixes and Move Log Display](https://youtu.be/okJ7tOvdqQY)
 - [ ] [Part 16: AI Improvement, weird en-passant bug fix, and threading](https://youtu.be/I36ZvBRyNQ0)
