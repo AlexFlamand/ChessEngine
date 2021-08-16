@@ -4,7 +4,7 @@ A rudimentary chess engine based on the one created by Eddie Sharick in his 16-p
 This repo will be updated as I follow along myself.
 Progress:
 - [x] [Part 01: Drawing the board](https://youtu.be/EnYui0e73Rs)
-- [ ] [Part 02: Moving the pieces](https://youtu.be/o24J3WcBGLg)
+- [x] [Part 02: Moving the pieces](https://youtu.be/o24J3WcBGLg)
 - [ ] [Part 03: Undo moves, start generating valid chess moves](https://youtu.be/ZV9vWiBHWIQ)
 - [ ] [Part 04: Pawn moves](https://youtu.be/F-ZPioOvOaM)
 - [ ] [Part 05: Generating all possible moves](https://youtu.be/LYleXQsmrk4)
